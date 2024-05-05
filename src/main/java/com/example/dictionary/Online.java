@@ -8,7 +8,7 @@ import javafx.scene.control.ToggleButton;
 import javafx.scene.input.MouseEvent;
 
 
-// Đặt nhầm tên ->Online
+
 public class Online {
     @FXML
     private TextArea inputWord;

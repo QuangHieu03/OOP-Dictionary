@@ -24,7 +24,7 @@
                 <DropShadow />
             </effect>
         </TextArea>
-        <Button fx:id="translateButton" layoutX="700.0" layoutY="225.0" mnemonicParsing="false" onMouseClicked="#onlineSearch" prefHeight="40.0" prefWidth="120.0" text="Translate">
+        <Button fx:id="translateButton" layoutX="700.0" layoutY="225.0" mnemonicParsing="false" onMouseClicked="#offlineSearch" prefHeight="40.0" prefWidth="120.0" text="Translate">
             <font>
                 <Font name="System Bold" size="18.0" />
             </font>

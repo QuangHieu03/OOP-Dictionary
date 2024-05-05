@@ -8,7 +8,7 @@ import javafx.scene.control.ToggleButton;
 import javafx.scene.input.MouseEvent;
 
 
-// Đặt nhầm tên ->Online
+
 public class Offline {
     @FXML
     private TextArea inputWord;
@@ -43,7 +43,7 @@ public class Offline {
         }
     }
 
-    public void onlineSearch(MouseEvent event) throws Exception {
+    public void offlineSearch(MouseEvent event) throws Exception {
         String translateTxt = inputWord.getText().trim();
         if (translateTxt != null && translateTxt.length() >0) {
             if(DictionaryCommandline.searchWord(translateTxt)) {
@@ -51,6 +51,7 @@ public class Offline {
                 resultTxt.setText(res);
             }
         }
+
     }
 
     public void voice(MouseEvent event) throws Exception {

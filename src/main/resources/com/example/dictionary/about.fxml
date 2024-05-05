@@ -1,11 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<?import java.lang.*?>
-<?import javafx.scene.text.*?>
 <?import javafx.scene.control.*?>
 <?import javafx.scene.layout.*?>
+<?import javafx.scene.text.*?>
 
-<Pane prefHeight="490" prefWidth="830" style="-fx-background-color: #DDDDDD;" xmlns="http://javafx.com/javafx/8" xmlns:fx="http://javafx.com/fxml/1" fx:controller="com.example.dictionary.About">
+<Pane prefHeight="490" prefWidth="830" style="-fx-background-color: #DDDDDD;" xmlns="http://javafx.com/javafx/17.0.2-ea" xmlns:fx="http://javafx.com/fxml/1" fx:controller="com.example.dictionary.About">
     <children>
         <Label layoutX="67.0" layoutY="14.0" text="HƯỚNG DẪN SỬ DỤNG CHƯƠNG TRÌNH">
             <font>
@@ -27,7 +26,7 @@
                 <Font size="14.0" />
             </font>
         </Text>
-        <Text layoutX="67.0" layoutY="167.0" strokeType="OUTSIDE" strokeWidth="0.0" text="- Chọn vào biểu tượng cái &quot;Loa&quot; hoặc nút &quot;Spell&quot; để nghe phát âm của từ đó.">
+        <Text layoutX="67.0" layoutY="167.0" strokeType="OUTSIDE" strokeWidth="0.0" text="- Chọn vào biểu tượng cái &quot;Loa&quot; để nghe phát âm của từ đó.">
             <font>
                 <Font size="14.0" />
             </font>

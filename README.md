@@ -2,7 +2,7 @@
 Các chức năng chính:
 1 Tra từ:
 - Nhập từ cần tra vào ô Tìm Kiếm, chọn từ cần tìm kiếm ở Danh Sách phía dưới để tra: nghĩa, phát âm, từ loại của từ đó.
--  Chọn vào biểu tượng cái &quot;Loa&quot; hoặc nút &quot;Spell&quot; để nghe phát âm của từ đó.
+-  Chọn vào biểu tượng cái &quot;Loa&quot; để nghe phát âm của từ đó.
 -  Với trình dịch online nhập từ vào ô tìm kiếm bấm translate và đợi chương trình xử lý kết quả. kết quả sẽ hiện ra ở ô kết quả
 2. Thêm
  - Nhập từ bạn muốn thêm vào ô Thêm Từ, nếu từ đã tồn tại ô Thêm Từ sẽ có khung màu đỏ, ngược lại ô sẽ có khung màu xanh.
